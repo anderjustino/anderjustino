@@ -1,6 +1,6 @@
 ### Hi there 😎 
 
-Eu sou o Anderson Oliveira, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Anderson Oliveira, sou um Programador Full Stack, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 <div>
