@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá, eu sou o Anderson Justino Barbosa de Oliveira 👋
+
+### 🚀 Desenvolvedor em Formação. Atualmente estou construindo minha carreira como Desenvolvedor Full Stack, dedicando meu tempo ao estudo de HTML, CSS, JavaScript, React e Node.js. Vejo cada projeto como uma oportunidade de transformar conhecimento em prática, desenvolver soluções e evoluir continuamente. A tecnologia me motiva porque sempre apresenta novos desafios, e acredito que a curiosidade, a disciplina e o aprendizado constante são os principais caminhos para crescer na área.
+
+## 🧠 Sobre mim 
+- 💼 Atualmente trabalho como Motorista em entregador em uma distribuidora de Medicamentos Veterinários.
+- 🌱 Estudando e me aprofundando em Desenvolvedor Full Stack pela plataforma DevClub
+- ⚡ Curiosidade em entender como as coisas funcionam e junto buscar alternativas de solução.
 
 <!--
 **anderjustino/anderjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
